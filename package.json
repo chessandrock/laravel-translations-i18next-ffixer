@@ -1,0 +1,22 @@
+{
+  "name": "laravel-translations-i18next-ffixer",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Fix to make translation strings from vite-plugin-laravel-translations compatible with i18next.",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/chessandrock/laravel-translations-i18next-ffixer.git"
+  },
+  "main": "./laravel-translations-i18next-ffixer.js",
+  "keywords": [
+    "i18next",
+    "translation",
+    "laravel"
+  ],
+  "author": "Rodrigo Fabián Andrés Fuentealba Cartes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chessandrock/laravel-translations-i18next-ffixer/issues"
+  },
+  "homepage": "https://github.com/chessandrock/laravel-translations-i18next-ffixer#readme"
+}
